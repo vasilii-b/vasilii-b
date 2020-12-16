@@ -1,16 +1,20 @@
-### Hi there 👋
+# Under construction :construction:
 
-<!--
-**vasilii-b/vasilii-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Vasilii is passionate about :soccer: and enjoys reading :books:.
+
+:book: Continuous learning minded.
+
+
+:question: Ask him about magento or frontend stuff. Or anything else - just be reasonable.
+
+:mailbox: Not a big fan of e-mail spam. Reach out to him via [LinkedIn](https://www.linkedin.com/in/burlacu-vasilii/) or [Twitter](https://twitter.com/burlacuvasilii).
+
+### Domains of interest
+
+* Magento 2
+* PWA
